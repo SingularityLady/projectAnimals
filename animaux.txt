@@ -1,3 +1,5 @@
 girafe
 lion
-tigre lapin
+tigre
+lapin
+ours
